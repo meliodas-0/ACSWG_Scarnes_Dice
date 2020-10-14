@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scarnes_Dice</string>
+    <string name="initialScore">0</string>
+    <string name = "You">You: </string>
+    <string name="comp">Computer: </string>
+    <string name = "turnScoreUser">Your turn Score: </string>
+    <string name = "turnScoreComp">Comp turn Score: </string>
+</resources>
